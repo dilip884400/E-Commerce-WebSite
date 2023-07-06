@@ -85,7 +85,7 @@ const Products = () => {
           <option value="">None</option>
           <option value="asc">Low to High</option>
           <option value="desc">High to Low</option>
-        </select
+        </select>
       </div>
       <div className="products my-5">
         <div className="grid">
